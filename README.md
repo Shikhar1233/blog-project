@@ -1,2 +1,2 @@
-# blog-project
-new repo
+# Blog-Website
+Blog Website Using Node.js and MongoDB
